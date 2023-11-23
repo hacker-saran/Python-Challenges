@@ -1,5 +1,7 @@
 
 ''' 
+Matrix Rotation
+
 You are given a square matrix A of dimensions NxN. You need to apply the below given 3 operations on the matrix A.
 
 -> Rotation: It is represented as R S where S is an integer in {90, 180, 270, 360, 450, ...} which denotes the number of degrees to rotate. You need to rotate the matrix A by angle S in the clockwise direction. The angle of rotation(S) will always be in multiples of 90 degrees.
